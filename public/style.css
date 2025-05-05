@@ -1,0 +1,59 @@
+/* Estilo único para el proyecto */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(45deg, #ff6347, #ffd700);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .main-container {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 40px;
+    border-radius: 10px;
+    width: 70%;
+  }
+  
+  h1 {
+    font-size: 3em;
+    color: #fff;
+  }
+  
+  p {
+    font-size: 1.2em;
+    color: #f1f1f1;
+  }
+  
+  .unique-section {
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .unique-section h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #ff6347;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    font-size: 1.2em;
+    margin-bottom: 8px;
+  }
+  
+  
